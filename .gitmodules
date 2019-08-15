@@ -1,0 +1,3 @@
+[submodule "submodule-auth"]
+	path = submodule-auth
+	url = https://github.com/mkpratt/submodule-auth.git
